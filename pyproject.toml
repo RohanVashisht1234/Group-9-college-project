@@ -3,9 +3,4 @@ name = "group-9"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
-dependencies = [
-    "plotly>=6.5.2",
-    "scikit-learn>=1.8.0",
-    "streamlit>=1.54.0",
-]
+dependencies = ["plotly>=6.5.2", "scikit-learn>=1.8.0", "streamlit>=1.54.0"]
