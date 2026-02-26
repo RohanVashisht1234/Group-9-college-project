@@ -2,6 +2,8 @@
 
 > **Group 9** | AI & Economics College Project
 
+Links:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SjFBKjVB4VhKEnatz0Vy76dGqHitB-mj)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://group-9-college-project.streamlit.app/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/dilwong/flightprices)
