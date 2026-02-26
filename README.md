@@ -38,7 +38,8 @@ The dataset contains real flight search results scraped from Expedia across mult
 ## 💡 Economic Concepts Applied
 
 ### 1. Price Elasticity of Demand (PED)
-$$\text{PED} = \frac{\% \Delta \text{ Quantity Demanded}}{\% \Delta \text{ Price}}$$
+<img width="323" height="74" alt="image" src="https://github.com/user-attachments/assets/729d8b82-0fde-49b1-a24e-907af8553911" />
+
 
 - **|PED| > 1** → Elastic demand (leisure travelers, price-sensitive)
 - **|PED| < 1** → Inelastic demand (business travelers, time-sensitive)
