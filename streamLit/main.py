@@ -44,9 +44,13 @@ st.markdown("""
     .kpi-value { font-size: 2rem; font-weight: 800; }
     .kpi-label { font-size: 0.85rem; opacity: 0.85; }
     .insight-box {
-        background: #f0f7ff; border-left: 4px solid #1a73e8;
-        border-radius: 0 8px 8px 0; padding: 0.8rem 1rem; margin: 0.5rem 0;
+        background: #f0f7ff;
+        border-left: 4px solid #1a73e8;
+        border-radius: 0 8px 8px 0;
+        padding: 0.8rem 1rem;
+        margin: 0.5rem 0;
         font-size: 0.92rem;
+        color: #111;   /* ← ADD THIS LINE */
     }
     .predict-result {
         background: linear-gradient(135deg, #00c853 0%, #1b5e20 100%);
