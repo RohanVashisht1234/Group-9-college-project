@@ -1,4 +1,4 @@
-# Group 9 - College Project
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/6d6bdeaa-46b7-464b-a060-a82654c09fa8" /><img width="889" height="390" alt="image" src="https://github.com/user-attachments/assets/e6344458-cd73-4f67-b157-307a54996f46" /># Group 9 - College Project
 
 ### Fares are right-skewed - a few expensive premium routes pull the mean upward.
 <img width="1390" height="490" alt="image" src="https://github.com/user-attachments/assets/7b7e10b2-0b56-41fc-b514-0210f5779e4f" />
@@ -15,6 +15,35 @@
 ### Non-stop flights cost more. Refundable tickets carry a premium. Basic economy is cheaper.
 <img width="1489" height="509" alt="image" src="https://github.com/user-attachments/assets/73659230-0be8-4bb9-b9bd-51196a4b56a4" />
 
+### Weekend flights (Fri–Sun) typically have higher fares due to leisure demand spikes.
+<img width="889" height="390" alt="image" src="https://github.com/user-attachments/assets/49a2a0f2-6017-4c55-bf4d-c7e8db646ca1" />
+
+### Distance and duration are strongly correlated with fare — longer routes cost more.
+<img width="890" height="790" alt="image" src="https://github.com/user-attachments/assets/d7e108fe-7e5a-4907-a364-a76ead8d7bcd" />
+
+### The elbow appears around K=4, suggesting 4 natural market segments.
+<img width="889" height="390" alt="image" src="https://github.com/user-attachments/assets/6c45733f-9625-4834-9129-6bdcf8fcea8d" />
+
+### K-Means market segmentation
+<img width="1389" height="509" alt="image" src="https://github.com/user-attachments/assets/c59ac1f7-eb65-489d-a0f2-dfd89a20113c" />
+
+### Four distinct price tiers emerge - Budget, Economy, Mid-Range, and Premium segments.
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/cfb78117-6154-41c8-a65b-dad224a9aa14" />
+
+### Actual vs Predicted scatter
+<img width="1390" height="509" alt="image" src="https://github.com/user-attachments/assets/5cad6111-9ec8-4bf7-85ed-ccc35b5bfbd5" />
+
+### Feature importance (coefficients)
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/2cad21a5-ec0c-4c2f-8aec-4fb2b660f72e" />
+
+### Demand elasticity analysis
+<img width="1390" height="509" alt="image" src="https://github.com/user-attachments/assets/61b7e886-25d0-424a-814a-8afadca30c0d" />
+
+### Airlines with more elastic demand must be cautious about raising prices — risk losing customers.
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/a07a2de0-da70-4f52-978b-763269106c78" />
+
+### These premium routes likely have low competition or serve high-demand business corridors.
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/307edf1b-cf00-49d4-8d03-239bb28ee405" />
 
 
 Links:
