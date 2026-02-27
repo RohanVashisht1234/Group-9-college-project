@@ -1,4 +1,4 @@
-<img width="1489" height="509" alt="image" src="https://github.com/user-attachments/assets/15e7fc64-bab0-468b-86d6-386dc3a4a389" /># **Group 9** | AI & Economics College Project
+# Group 9 - College Project
 
 ### Fares are right-skewed - a few expensive premium routes pull the mean upward.
 <img width="1390" height="490" alt="image" src="https://github.com/user-attachments/assets/7b7e10b2-0b56-41fc-b514-0210f5779e4f" />
