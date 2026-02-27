@@ -1,6 +1,21 @@
-# ✈️ Airline Ticket Price Forecasting & Market Competition Dynamics
+<img width="1489" height="509" alt="image" src="https://github.com/user-attachments/assets/15e7fc64-bab0-468b-86d6-386dc3a4a389" /># **Group 9** | AI & Economics College Project
 
-> **Group 9** | AI & Economics College Project
+### Fares are right-skewed - a few expensive premium routes pull the mean upward.
+<img width="1390" height="490" alt="image" src="https://github.com/user-attachments/assets/7b7e10b2-0b56-41fc-b514-0210f5779e4f" />
+
+### Premium carriers and less-competitive routes command higher average fares.
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/1b708351-0b73-493b-b7f3-5f59686f1aed" />
+
+### Fares tend to be lowest in the 14-60 day sweet spot — classic airline yield management.
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/46884ee8-0358-47da-87f8-63c6e7dc7951" />
+
+### SUPPLY-DEMAND: Fewer available seats → higher prices. Airlines use dynamic pricing.
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/533eb5d9-8ba0-4d4e-94f2-580c3df6a2c8" />
+
+### Non-stop flights cost more. Refundable tickets carry a premium. Basic economy is cheaper.
+<img width="1489" height="509" alt="image" src="https://github.com/user-attachments/assets/73659230-0be8-4bb9-b9bd-51196a4b56a4" />
+
+
 
 Links:
 
